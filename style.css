@@ -1,0 +1,213 @@
+/*****************************************
+ **		- Coder par twiy-logic.fr -		**
+ *****************************************
+ **			contact@twiy-logic.fr		**
+ *****************************************/
+
+/****** GENERAL ******/
+@import url(http://fonts.googleapis.com/css?family=Audiowide&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+body 
+{
+  background: url(img/main-background.jpg);
+  background-attachment: fixed;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  text-shadow: 2px 0px 4px black;
+}
+
+h1 	{ font-size: 28px; display: inline-block; margin: 0px; font-family: 'Audiowide', cursive;}
+h2 	{ font-size: 20px; display: inline-block; margin-top: 10px;} 
+h4  { margin: 0px 0px 0px 0px; }
+a 	{ color: lime;}
+
+form {
+	max-width: 1000px;
+	min-width: 490px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+input[type=button]
+{
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px / 5px;
+  font-weight: bold;
+} 
+input[type=submit]
+{
+  	border-radius: 10px / 10px;
+  	font-weight: bold;
+	font-size: 15px;
+	padding: 10px;
+	width: 450px;
+	margin-top: 20px;
+}
+input[type=text] 
+{
+	background-color: rgba(255, 255, 255, 0.5); 
+	border-radius: 5px / 5px;
+	padding: 2px 5px 2px 5px;
+	width: 90%;
+	font-size: 12px;
+}
+input[type=checkbox] { margin: 5px 8px 5px 5px; }
+textarea
+{
+	width: 90%;
+	background-color: rgba(255, 255, 255, 0.5); 
+	border-radius: 5px / 5px;
+	padding: 5px;
+}
+
+fieldset {
+	border-radius: 5px / 5px;
+	display: inline-block;
+	margin: 5px;
+	vertical-align: top;
+}
+legend { font-size: 16px; }
+
+/****** HEADER ******/
+header
+{
+	margin: 0px 0px 0px 0px;
+	color: #C0D8DC;
+	width: 380px;
+	margin: 20px auto 20px auto;
+}
+header img 	{ width: 100px; float: left;}
+
+/****** FOOTER ******/
+footer {
+	margin-top: 30px;
+	text-align: center;
+	color: #C0D8DC;
+}
+footer a {text-decoration: none; color: white;}
+
+/****** #BOX ******/
+.box {
+	width: 450px;
+	text-align: left;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px black solid;
+	padding: 1%;
+	border-radius: 20px / 20px;
+	background-color: rgba(0, 0, 0, 0.25); 
+	padding: 10px;
+   	margin: 5px;
+}
+
+.box h3 
+{
+	display: inline-block;
+  	font-size: 20px;
+  	padding-left: 15px;
+  	margin: 0px;
+  	position: relative;
+  	bottom: 15px;
+}
+
+.pictureBoxTitle {
+	display: inline-block;
+	width:  45px;
+	height: 45px;
+	margin: 0px;
+	padding: 0px;
+	text-shadow: 2px 2px 4px black;
+}
+
+/****** BOX INDIVIDUELLES ******/
+
+	/****** BOX A1 -  ******/
+	#box_A1 {
+		height: 425px;
+	}
+	#box_A1 input[type=text] {
+		width: 200px;
+	}
+	#div_domain_name { 
+		border: 1px white solid;
+		border-radius: 5px / 5px;
+		padding: 10px;
+		margin: 10px;
+		text-align: center;
+	}
+
+	/****** BOX A2 -  ******/
+	#box_A2 {
+		height: 425px;
+	}
+	/****** BOX B1 -  ******/
+	#box_B1 {
+		display: none;
+		height: 290px;
+	}
+	#box_B2 input[type=text] {
+		width: 90%;
+	}
+
+	/****** BOX B2 -  ******/
+	#box_B2 {
+		display: none;
+		height: 290px;
+	}
+	#box_B2 fieldset {
+		width: 185px;
+		height: 190px;
+	}
+	#user_pswd_list {
+		height: 160px;
+	}
+
+	/****** BOX C1 -  ******/
+	#box_C1 {
+		display: none;
+		height: 445px;
+	}
+	#box_C1 fieldset {
+		vertical-align: top;
+		width: 90%;
+		display: inline;
+	}
+	#box_C1 input[type=text] {
+		width: 200px;
+	}
+	#box_C1 textarea {
+		height:  100px;
+	}
+
+	/****** BOX C2 -  ******/
+	#box_C2 {
+		display: none;
+		height: 445px;
+	}
+	#box_C2 input[type="text"] {
+		width: 130px;
+	}
+
+	/****** BOX D1 -  ******/
+	#box_D1 {
+		height: 445px;
+	}
+	#box_D1 input[type="text"] {
+		width: 170px;
+		margin: 10px 5px 10px 5px;
+		font-size: 16px;
+	}
+	#box_D1 fieldset {
+		width: 90%;
+	}
+	#box_D1 textarea {
+		height: 200px;
+	}
+
+/****** RESULTAT ******/
+#div_htaccess textarea , #div_htpasswd textarea {
+	height: 200px;
+	width: 95%;
+}
