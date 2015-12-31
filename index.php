@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <!--  /*****************************************
-         **   - Coder par twiy-logic.fr -   **
+         **   - Coder par twiy-logic.fr -   
          *****************************************
-         **     contact@twiy-logic.fr   **
+         **     contact@twiy-logic.fr   
          *****************************************/ -->
          
   <head>
@@ -12,7 +12,7 @@
     <meta name="description" content="HTACCESS-Gen est un générateur en ligne de fichier htaccess et hapasswd qui propose de nombreuses options.">
     <meta name="keywords" content="htaccess, htpasswd, generator, générateur">
     <meta name="author" content="twiy-logic.fr">
-    <link rel="icon" type="image/png" href="favicon.ico" />     
+    <link rel="icon" type="image/png" href="img/logo.png" />     
     <LINK href="style.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="controller/script.js"></script>
   </head>
