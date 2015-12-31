@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <!--  /*****************************************
-         **   - Coder par twiy-logic.fr -   
+         **   - Coder par cerf-de-pixel.fr -   
          *****************************************
-         **     contact@twiy-logic.fr   
+         **     contact@cerf-de-pixel.fr   
          *****************************************/ -->
          
   <head>
@@ -11,7 +11,7 @@
     <meta charset="utf-8" />
     <meta name="description" content="HTACCESS-Gen est un générateur en ligne de fichier htaccess et hapasswd qui propose de nombreuses options.">
     <meta name="keywords" content="htaccess, htpasswd, generator, générateur">
-    <meta name="author" content="twiy-logic.fr">
+    <meta name="author" content="cerf-de-pixel.fr">
     <link rel="icon" type="image/png" href="img/logo.png" />     
     <LINK href="style.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="controller/script.js"></script>

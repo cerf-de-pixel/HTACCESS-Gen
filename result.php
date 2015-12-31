@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <!--  /*****************************************
-         **   	- Coder par twiy-logic.fr -   	**
+         **   	- Coder par cerf-de-pixel.fr -   	**
          *****************************************
-         **        contact@twiy-logic.fr   		**
+         **        contact@cerf-de-pixel.fr   		**
          *****************************************/ -->
          
   <head>
