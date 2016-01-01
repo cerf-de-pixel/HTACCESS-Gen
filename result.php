@@ -11,6 +11,9 @@
     <meta charset="utf-8" />
     <link rel="icon" type="image/png" href="favicon.ico" />
     <LINK href="style.css" rel="stylesheet" type="text/css">
+
+    <meta name="robots" content="noindex">
+    <meta name="googlebot" content="noindex">
   </head>
   
   <body>
