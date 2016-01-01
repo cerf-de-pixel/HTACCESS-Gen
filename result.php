@@ -7,7 +7,7 @@
          *****************************************/ -->
          
   <head>
-    <title>HTACCESS-Gen</title>
+    <title>HTACCESS-Gen | Fichiers .HTACCESS et .HTPASSWORD générés</title>
     <meta charset="utf-8" />
     <link rel="icon" type="image/png" href="img/favicon.png" />
     <LINK href="style.css" rel="stylesheet" type="text/css">

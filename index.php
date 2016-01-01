@@ -7,7 +7,7 @@
          *****************************************/ -->
          
   <head>
-    <title>HTACCESS-Gen</title>
+    <title>HTACCESS-Gen | Générateur de fichiers .HTACCESS et .HTPASSWORD</title>
     <meta charset="utf-8" />
     <meta name="description" content="HTACCESS-Gen est un générateur en ligne de fichier htaccess et hapasswd qui propose de nombreuses options.">
     <meta name="keywords" content="htaccess, htpasswd, generator, générateur">
