@@ -1,1 +1,1 @@
-<p>Programmé par <a href="http://cerf-de-pixel.fr">cerf-de-pixel.fr</a></p>
+<p>codé par <a href="http://cerf-de-pixel.fr">cerf-de-pixel.fr</a></p>
