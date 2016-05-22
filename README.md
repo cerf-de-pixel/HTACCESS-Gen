@@ -5,7 +5,7 @@ Générateur en ligne de fichiers .htaccess et .htpasswd pour les serveurs apach
 ## Description :
 HTACCESS-Gen est un générateur en ligne de fichiers htaccess et htpasswd qui vous aidera à configurer vos serveurs apache. Il a été conçu pour être élégant et simple d’utilisation tout en proposant un maximum de fonctionnalités.
 
-##Les fonctionnalités proposées par HTACCESS-Gen sont :
+## Les fonctionnalités proposées par HTACCESS-Gen sont :
 
 * Protéger le répertoire avec un fichier .htpasswd
 * Ajouter des redirections de pages
